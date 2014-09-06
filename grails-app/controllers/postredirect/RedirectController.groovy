@@ -1,4 +1,4 @@
-package postredirectexample
+package postredirect
 
 class RedirectController {
 
